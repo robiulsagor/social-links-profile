@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://robiulsagor.github.io/social-links-profile/)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-social-links-profile-card-Mkoq_EM_Xt](https://www.frontendmentor.io/solutions/responsive-social-links-profile-card-Mkoq_EM_Xt)
+- Live Site URL: [https://robiulsagor.github.io/social-links-profile](https://robiulsagor.github.io/social-links-profile/)
 
 ## My process
 
